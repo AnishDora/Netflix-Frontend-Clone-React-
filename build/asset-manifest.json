@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youtube-frontend-Clone/static/css/main.593e0e99.chunk.css",
+    "main.js": "/Youtube-frontend-Clone/static/js/main.e242e0c6.chunk.js",
+    "main.js.map": "/Youtube-frontend-Clone/static/js/main.e242e0c6.chunk.js.map",
+    "runtime-main.js": "/Youtube-frontend-Clone/static/js/runtime-main.eb0facb8.js",
+    "runtime-main.js.map": "/Youtube-frontend-Clone/static/js/runtime-main.eb0facb8.js.map",
+    "static/js/2.71dba7e9.chunk.js": "/Youtube-frontend-Clone/static/js/2.71dba7e9.chunk.js",
+    "static/js/2.71dba7e9.chunk.js.map": "/Youtube-frontend-Clone/static/js/2.71dba7e9.chunk.js.map",
+    "index.html": "/Youtube-frontend-Clone/index.html",
+    "precache-manifest.6fd9fded709b6265a928edf8fde91113.js": "/Youtube-frontend-Clone/precache-manifest.6fd9fded709b6265a928edf8fde91113.js",
+    "service-worker.js": "/Youtube-frontend-Clone/service-worker.js",
+    "static/css/main.593e0e99.chunk.css.map": "/Youtube-frontend-Clone/static/css/main.593e0e99.chunk.css.map",
+    "static/js/2.71dba7e9.chunk.js.LICENSE.txt": "/Youtube-frontend-Clone/static/js/2.71dba7e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb0facb8.js",
+    "static/js/2.71dba7e9.chunk.js",
+    "static/css/main.593e0e99.chunk.css",
+    "static/js/main.e242e0c6.chunk.js"
+  ]
+}
